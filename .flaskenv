@@ -1,0 +1,2 @@
+FLASK_APP=survey_system.py
+FLASK_DEBUG=1
